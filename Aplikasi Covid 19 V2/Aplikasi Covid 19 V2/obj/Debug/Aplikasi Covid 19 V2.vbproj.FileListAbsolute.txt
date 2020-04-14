@@ -1,0 +1,23 @@
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.exe.config
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.pdb
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.vbprojAssemblyReference.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form1.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Resources.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.vbproj.GenerateResource.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.pdb
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form2.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form3.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form4.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form5.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form6.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form7.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form8.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi_Covid_19_V2.Form9.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.exe.manifest
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\bin\Debug\Aplikasi Covid 19 V2.application
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.exe.manifest
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Aplikasi Covid 19 V2\Aplikasi Covid 19 V2\obj\Debug\Aplikasi Covid 19 V2.application
